@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about Manue
+title: about
 permalink: /
 subtitle: <a href='#'>Purdue University </a>. Address. Contacts. Moto. Etc.
 
