@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://manumarv.github.io/al-folio/sitemap.xml
+Sitemap: https://manumarv.github.io/sitemap.xml
