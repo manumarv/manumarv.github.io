@@ -4,4 +4,4 @@ title: Education
 permalink: /Education/
 ---
 
-{% include Education.liquid %}
+{% include news.liquid %}
