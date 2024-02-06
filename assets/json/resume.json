@@ -6,7 +6,7 @@
     "email": "manuel.emarv@gmail.com",
     "phone": "(765) 409-7626",
     "url": "https://manumarv.github.io/",
-    "summary": "An Engineer with experienc in the energy sector, electric vehicles powertrain and autonomous vehicles software and hardware integration",
+    "summary": "Energy Engineer with experience in the energy sector, electric vehicles powertrain and autonomous vehicles software and hardware integration",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -25,12 +25,12 @@
   "work": [
     {
       "name": "Purdue Artificial Intelligence Racing, Purdue University",
-      "position": "Simulation Test",
+      "position": "Testing and Operations Lead Engineer",
       "url": "https://example.com",
       "startDate":"2023-08-01",
-      "endDate": "2024",
-      "summary": "Testing and Operations Lead, in charge of the mission readiness of the team on track and running simulations",
-      "highlights": ["LGSVL", "Simulink"]
+      "endDate": "",
+      "summary": " In charge of the mission readiness of the team on track, prepare, deploy and automate simulation",
+      "highlights": ["LGSVL", "Simulink", "Simcenter Prescan", "CARLA","Git" ]
     },
 
     {
@@ -39,9 +39,40 @@
       "url": "https://example.com",
       "startDate": "2021-06-01",
       "endDate": "2023-07-01",
-      "summary": "Wore multiple hats in this project, ",
-      "highlights": ["Python Scripting Embedded Software", "C++", "Matlab", "LGSVL", "AnsysVRExperience"]
+      "summary": "Lead autonomous racing team, manage 10+ people, troubleshoot hardware issues",
+      "highlights": ["Python Scripting in Embedded Software", "C++","AnsysVRExperience", "Data Analysis", "CAN Bus"]
+    }, 
+
+    {
+      "name": "Purdue University",
+      "position": "Research Assistant",
+      "url": "https://example.com",
+      "startDate": "2019-08-01",
+      "endDate": "2021-008-01",
+      "summary": "Research Electricity Consumption",
+      "highlights": ["Data Analytics", "Data Visualization","Machine Learning", "Deep Learning", "Project Management"]
+    },
+
+    {
+      "name": "Sudesco Energy",
+      "position": "Energy Consultant",
+      "url": "https://example.com",
+      "startDate": "2018-07-01",
+      "endDate": "2019-08-01",
+      "summary": "Work in multiple companies to help them save energy in multiple processes ",
+      "highlights": ["Excel VBA", "Tableau","Office", "Data Analysis", "ISO 50001"]
+    },
+    
+    {
+      "name": "Purdue University",
+      "position": "Research Intern",
+      "url": "https://example.com",
+      "startDate": "2018-01-01",
+      "endDate": "2018-07-01",
+      "summary": "Lead autonomous racing team, manage 10+ people, troubleshoot hardware issues",
+      "highlights": ["Python Scripting in Embedded Software", "C++","AnsysVRExperience", "Data Analysis", "CAN Bus"]
     }
+    
   ],
   "volunteer": [
     {
@@ -86,11 +117,11 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "title": "Purdue Excellence",
+      "date": "2022-03-01",
+      "awarder": "Purdue ",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "Award for outstanding work in IAC challenge representing Purdue  "
     }
   ],
   "certificates": [
@@ -166,7 +197,7 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
+        "Physics",
         "Quantum Computing",
         "Quantum Information",
         "Quantum Cryptography",
@@ -177,7 +208,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -203,15 +234,23 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Eric Dietz",
       "icon": "fa-solid fa-laptop",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Professor Julien Noel",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    },
+
+    {
+      "name": "Victor Rosillo",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+
     }
+
   ],
   "projects": [
     {
