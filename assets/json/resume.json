@@ -25,10 +25,10 @@
   "work": [
     {
       "name": "Purdue Artificial Intelligence Racing, Purdue University",
-      "position": "Professor of Theoretical Physics",
+      "position": "Simulation Test",
       "url": "https://example.com",
       "startDate": "2023-08-01",
-      "endDate": "To-Date",
+      "endDate": "",
       "summary": "Testing and Operations Lead, in charge of the mission readiness of the team on track and running simulations",
       "highlights": ["LGSVL", "Simulink"]
     },
@@ -55,7 +55,7 @@
   ],
   "education": [
     {
-      "institution": "Purdue University",
+      "institution": "Purdue University, West Lafayette, USA",
       "location": "West Lafayette, Indiana, USA",
       "url": "https://www.purdue.edu/",
       "area": "Vehicle Engineering",
