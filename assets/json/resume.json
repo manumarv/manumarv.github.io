@@ -46,7 +46,7 @@
   "volunteer": [
     {
       "organization": "TECMentor",
-      "position": "Teacher IT Educator ",
+      "position": "Educational Technology Collaborator ",
       "url": "https://www.linkedin.com/company/tecmentor/",
       "startDate": "2020-03-01",
       "endDate": "2021-03-01",
@@ -55,15 +55,36 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Purdue University",
+      "location": "West Lafayette, Indiana, USA",
+      "url": "https://www.purdue.edu/",
+      "area": "Vehicle Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2022-01-01",
+      "endDate": "2024-07-01",
+      "courses": ["Autonomous Vehicles Integrations, Controls, Big-Data Machine Learning"]
+    },
+
+    {
+      "institution": "Purdue University",
+      "location": "West Lafayette, Indiana, USA",
+      "url": "https://www.purdue.edu/",
+      "area": "Computer Information Technology",
+      "studyType": "Ms.C",
+      "startDate": "2019-07-01",
+      "endDate": "2021-07-31",
+      "courses": ["Electric Vehicles Integration, Deep Learning, Project Management"]
+    },
+
+    {
+      "institution": "University of Engineering and Technology",
+      "location": "Lima, Peru",
+      "url": "https://utec.edu.pe/",
+      "area": "Energy Engineering",
+      "studyType": "B.Sc",
+      "startDate": "2014-03-01",
+      "endDate": "2018-12-15",
+      "courses": ["Electric Machines, Renewable Energy, Controls, Energy Economics "]
     }
   ],
   "awards": [
