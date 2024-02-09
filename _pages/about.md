@@ -9,9 +9,9 @@ profile:
   image: Bio_Pic_Grayscale_Face.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 PhD Candidate</p>
-    <p>123 Purdue University</p>
-    <p>West Lafayette, Indiana </p>
+    <p> PhD Candidate</p>
+    <p> Purdue University</p>
+    <p> West Lafayette, Indiana </p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
