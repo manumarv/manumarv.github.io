@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-03-22 15:59:00-0400
+date: 2024-02-08 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Paper was accepted in Transactions
+Paper Titled: "Full Sized Autonomous Racing Vehicle Sensor Architecture: Qualitative Review"
