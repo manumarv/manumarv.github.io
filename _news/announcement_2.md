@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Completed my Master of Science at Purdue University 
+title: Completed my Master of Science at Purdue University
 date: 2021-08-01 16:11:00-0400
 inline: false
 related_posts: false

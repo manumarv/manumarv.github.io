@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Participated in Indy Autonomous Challenge CES Las Vegas 2024 
+title: Participated in Indy Autonomous Challenge CES Las Vegas 2024
 date: 2024-01-09 11:46:00
 description: this is what advanced image components could look like
 tags: formatting images
