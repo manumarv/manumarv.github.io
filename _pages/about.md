@@ -22,6 +22,4 @@ social: true # includes social icons at the bottom of the page
 
 Greetings! I am currentlu a PhD Candidate at the Polytechnic School at Purdue University. I earned my bachelor’s degree in Power Engineering at University of Engineering and Technology (UTEC) in Lima Peru, I worked energy consulting in Lima Peru. Then I did my master’s in computer information technology at Purdue University Polytechnic Institute focusing in Machine Learning and Electric Vehicle Powertrain Design. I am currently under the guidance of Dr Dietz and working with Professor Labi for in Purdue AI Racing Team, where we program Autonomous Race Vehicles.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My mission is to advance on optimization solution for powertrain design and torque optimization for intelligent transportation systems such as electric vehicles, gas engine vehicles and other commercial and truck vehicles.
