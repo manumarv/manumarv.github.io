@@ -28,7 +28,7 @@
       "position": "Testing and Operations Lead Engineer",
       "url": "https://example.com",
       "startDate": "2023-08-01",
-      "endDate": "",
+      "endDate": "2024-08-01",
       "summary": " In charge of the mission readiness of the team on track, prepare, deploy and automate simulation",
       "highlights": ["LGSVL", "Simulink", "Simcenter Prescan", "CARLA", "Git"]
     },
@@ -48,7 +48,7 @@
       "position": "Research Assistant",
       "url": "https://example.com",
       "startDate": "2019-08-01",
-      "endDate": "2021-008-01",
+      "endDate": "2021-08-01",
       "summary": "Research Electricity Consumption",
       "highlights": ["Data Analytics", "Data Visualization", "Machine Learning", "Deep Learning", "Project Management"]
     },
