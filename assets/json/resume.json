@@ -86,7 +86,7 @@
   "education": [
     {
       "institution": "Purdue University, West Lafayette, USA",
-      "location": "West Lafayette, Indiana, USA",
+      "location": "West Lafayette, IN",
       "area": "Vehicle Engineering",
       "studyType": "PhD",
       "startDate": "2022-01-01",
@@ -96,7 +96,7 @@
 
     {
       "institution": "Purdue University",
-      "location": "West Lafayette, Indiana, USA",
+      "location": "West Lafayette, IN",
       "area": "Computer Information Technology",
       "studyType": "Ms.C",
       "startDate": "2019-07-01",
@@ -169,25 +169,26 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Control Challenges for High-Speed Autonomous Racing: Analysis and Simulated Experiments",
+      "publisher": "SAE International Journal of Connected and Automated Vehicles",
+      "releaseDate": "2022",
+      "url": "https://saemobilus.sae.org/content/12-05-01-0009/",
+      "summary": "We present our approach to several control challenges in high-speed autonomous racing for the Indy Autonomous Challenge (IAC). The IAC involves autonomous head-to-head racing at speeds approaching 200 mph. The autonomy system must maintain traction and stability when operating at such high speeds while also maneuvering aggressively around other competitor vehicles. One key challenge arises from limited actuator update frequency. We propose two lateral control methods to follow the desired trajectory: a cross-track error method and a pure pursuit lookahead angle method. Analysis shows that, when linearized, cross-track error and pure pursuit angle are related by a first-order system. To analyze the effect of actuator update frequency on closed-loop performance, we emulate the discrete rate as a time delay. Control parameters and gains for both controllers can be solved by using loop-shaping techniques to guarantee closed-loop bandwidth and phase margin. The bandwidth is limited by the time delay associated with the loop frequency. The results depict that the steering actuator update frequency should be as high as possible to maximize vehicle stability and indicate that increasing the steering actuator update frequency allows for a higher closed-loop control bandwidth and increased tracking performance. (For example, a 50 Hz control bandwidth can be achieved by a 1 kHz actuator update frequency.) Our acceleration and longitudinal control strategy maximizes acceleration performance while respecting traction and engine revolutions per minute (RPM) limits by applying throttle and shifting gears based on the engine torque-speed profile to achieve the desired wheel traction forces. We demonstrate our control strategies in simulation at various control loop frequencies. A higher control loop frequency allows for higher-bandwidth lateral controllers exhibiting a faster response to changes in the desired trajectory. From a rolling start in an initial acceleration test at a constant control loop frequency, our longitudinal control and shifting strategy outperforms the IAC default automatic transmission."
+    },
+
+    {
+      "name": "A Review of Full-Sized Autonomous Racing Vehicle Sensor Architecture",
+      "publisher": "IEEE",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/abs/2402.02603",
+      "summary": "In the landscape of technological innovation, autonomous racing is a dynamic and challenging domain that not only pushes the limits of technology, but also plays a crucial role in advancing and fostering a greater acceptance of autonomous systems. This paper thoroughly explores challenges and advances in autonomous racing vehicle design and performance, focusing on Roborace and the Indy Autonomous Challenge (IAC). This review provides a detailed analysis of sensor setups, architectural nuances, and test metrics on these cutting-edge platforms. In Roborace, the evolution from Devbot 1.0 to Robocar and Devbot 2.0 is detailed, revealing insights into sensor configurations and performance outcomes. The examination extends to the IAC, which is dedicated to high-speed self-driving vehicles, emphasizing developmental trajectories and sensor adaptations. By reviewing these platforms, the analysis provides valuable insight into autonomous driving racing, contributing to a broader understanding of sensor architectures and the challenges faced. This review supports future advances in full-scale autonomous racing technology."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Cyber-Physical Review of a Battery Electric Vehicle Power Train: Vulnerabilities and Challenges",
+      "publisher": "IEEE",
+      "releaseDate": "2021",
+      "url": "https://ieeexplore.ieee.org/document/9543036",
+      "summary": "This paper analyzes and reports the vulnerabilities and threats of an experimental electric vehicle. The proposed approach employs an electric vehicle (EV) and communication instrumentation for collecting CAN bus messages. Data was collected through the Electronic Control Unit (ECU) and the battery management system (BMS) interface. Our focus is on decoding the CAN messages and injecting false messages to exploit EV cyber-physical performance by observing the electrical and mechanical data. We found out that the electric car powertrain can be degraded severely without the fault systems' activation. Due to different communication between the engine and the ECU, the overall efficiency and electrical power performance were compromised."
     }
   ],
   "skills": [
@@ -212,41 +213,34 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Research Areas of Interest",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": ["Eco-Driving", "High-Performance Vehicles", "Deep/Machine Learning", "Powertrain Topology", "Smart Grids", "Electric Vehicles"]
     }
   ],
   "references": [
     {
       "name": "Professor Eric Dietz",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "jedietz@purdue.edu"
     },
     {
       "name": "Professor Julien Noel",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "jnoel@utec.edu.pe"
     },
 
     {
       "name": "Victor Rosillo",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "victor.rosillo@sudesco.com"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "name": "MPC Controller",
+      "summary": "TBA",
+      "highlights": ["TBA", "TBA"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
