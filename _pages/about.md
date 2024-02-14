@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Manuel Mar
 permalink: /
 subtitle: <a href='#'>Purdue University </a>. 7654097626. manuel.emarv@gmail.com . .
 
