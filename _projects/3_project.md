@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DP Programming for Torque Optimization
-description: a project that redirects to another website
+description: TBD
 img: assets/img/dynamic_programming_approach.jpg
 redirect: https://unsplash.com
 importance: 3

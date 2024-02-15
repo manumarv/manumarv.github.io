@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MPC Controller
-description: a project with a background image
+description: TBD
 img: assets/img/MPC_Controller_ACC.PNG
 importance: 1
 category: work

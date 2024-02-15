@@ -1,10 +1,10 @@
 ---
 layout: page
 title: PINN for Racing
-description: another without an image
+description: TBD
 img:
 importance: 3
-category: fun
+category: other
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Electricity Consumption Prediction Neural Network
-description: a project with a background image and giscus comments
+description: TBD
 img: assets/img/Electricity_Consumption.jpg
 importance: 2
 category: work

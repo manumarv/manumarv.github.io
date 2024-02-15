@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Comodin
-description: a project with no image
+description: TBA
 img:
 importance: 4
-category: fun
+category: other
 ---
 
 Every project has a beautiful feature showcase page.

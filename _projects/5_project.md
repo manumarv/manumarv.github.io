@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Eco Driving Architecture
-description: a project with a background image
+description: TBD
 img: assets/img/Eco-driving.jpg
 importance: 3
-category: fun
+category: other
 ---
 
 Every project has a beautiful feature showcase page.
