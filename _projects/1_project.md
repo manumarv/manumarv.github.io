@@ -2,7 +2,7 @@
 layout: page
 title: MPC Controller
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/MPC_Controller_ACC.PNG
 importance: 1
 category: work
 related_publications: true
