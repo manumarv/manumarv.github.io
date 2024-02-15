@@ -132,35 +132,35 @@
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
+      "name": "Autocad",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
+      "name": "Excel VBA",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
+      "name": "Machine Learning",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
+      "name": "ROS",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
+      "name": "Python",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
@@ -193,10 +193,10 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Soft-Skills",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Physics", "Quantum Computing", "Quantum Information", "Quantum Cryptography", "Quantum Communication", "Quantum Teleportation"]
+      "keywords": ["Communication", "Leadership", "Teamwork", "Adaptability", "Creativity", "critical Thinking"]
     }
   ],
   "languages": [
@@ -220,12 +220,12 @@
   ],
   "references": [
     {
-      "name": "Professor Eric Dietz",
+      "name": "Dr Eric Dietz",
       "icon": "fa-solid fa-laptop",
       "reference": "jedietz@purdue.edu"
     },
     {
-      "name": "Professor Julien Noel",
+      "name": "Dr Julien Noel",
       "icon": "fa-solid fa-thumbtack",
       "reference": "jnoel@utec.edu.pe"
     },

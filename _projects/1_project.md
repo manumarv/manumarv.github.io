@@ -2,7 +2,7 @@
 layout: page
 title: MPC Controller
 description: TBD
-img: assets/img/MPC_Controller_ACC.PNG
+img: assets/img/MPC_Controller_ACC.png
 importance: 1
 category: work
 related_publications: true
