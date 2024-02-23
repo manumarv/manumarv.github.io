@@ -26,7 +26,7 @@
     {
       "name": "Purdue Artificial Intelligence Racing, Purdue University",
       "position": "Testing and Operations Lead Engineer",
-      "url": "https://example.com",
+      "url": "https://engineering.purdue.edu/Initiatives/AutoSystems/PAIR",
       "startDate": "2023-08-01",
       "endDate": "2024-08-01",
       "summary": " In charge of the mission readiness of the team on track, prepare, deploy and automate simulation",
@@ -36,7 +36,7 @@
     {
       "name": "Black and Gold Autonomous Racing",
       "position": "Technical Lead Engineer",
-      "url": "https://example.com",
+      "url": "https://www.linkedin.com/company/blackandgoldautonomousracing",
       "startDate": "2021-06-01",
       "endDate": "2023-07-01",
       "summary": "Lead autonomous racing team, manage 10+ people, troubleshoot hardware issues",
@@ -46,7 +46,7 @@
     {
       "name": "Purdue University",
       "position": "Research Assistant",
-      "url": "https://example.com",
+      "url": "https://polytechnic.purdue.edu/facilities/phsi/people",
       "startDate": "2019-08-01",
       "endDate": "2021-08-01",
       "summary": "Research Electricity Consumption",
@@ -56,7 +56,7 @@
     {
       "name": "Sudesco Energy",
       "position": "Energy Consultant",
-      "url": "https://example.com",
+      "url": "https://sudesco.com/",
       "startDate": "2018-07-01",
       "endDate": "2019-08-01",
       "summary": "Work in multiple companies to help them save energy in multiple processes ",
@@ -66,7 +66,7 @@
     {
       "name": "Purdue University",
       "position": "Research Intern",
-      "url": "https://example.com",
+      "url": "https://polytechnic.purdue.edu/facilities/phsi/people",
       "startDate": "2018-01-01",
       "endDate": "2018-07-01",
       "summary": "Lead autonomous racing team, manage 10+ people, troubleshoot hardware issues",
@@ -127,44 +127,37 @@
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Coursera",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Autocad",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "National University of Engineering ",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Excel VBA",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "PUCP",
       "url": "https://example.com",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Machine Learning",
+      "name": "Python",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Purdue University",
       "url": "https://example.com",
       "icon": "fa-solid fa-hashtag"
     },
     {
       "name": "ROS",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Coursera",
       "url": "https://example.com",
       "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Python",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -173,7 +166,7 @@
       "publisher": "SAE International Journal of Connected and Automated Vehicles",
       "releaseDate": "2022",
       "url": "https://saemobilus.sae.org/content/12-05-01-0009/",
-      "summary": "We present our approach to several control challenges in high-speed autonomous racing for the Indy Autonomous Challenge (IAC). The IAC involves autonomous head-to-head racing at speeds approaching 200 mph. The autonomy system must maintain traction and stability when operating at such high speeds while also maneuvering aggressively around other competitor vehicles. One key challenge arises from limited actuator update frequency. We propose two lateral control methods to follow the desired trajectory: a cross-track error method and a pure pursuit lookahead angle method. Analysis shows that, when linearized, cross-track error and pure pursuit angle are related by a first-order system. To analyze the effect of actuator update frequency on closed-loop performance, we emulate the discrete rate as a time delay. Control parameters and gains for both controllers can be solved by using loop-shaping techniques to guarantee closed-loop bandwidth and phase margin. The bandwidth is limited by the time delay associated with the loop frequency. The results depict that the steering actuator update frequency should be as high as possible to maximize vehicle stability and indicate that increasing the steering actuator update frequency allows for a higher closed-loop control bandwidth and increased tracking performance. (For example, a 50 Hz control bandwidth can be achieved by a 1 kHz actuator update frequency.) Our acceleration and longitudinal control strategy maximizes acceleration performance while respecting traction and engine revolutions per minute (RPM) limits by applying throttle and shifting gears based on the engine torque-speed profile to achieve the desired wheel traction forces. We demonstrate our control strategies in simulation at various control loop frequencies. A higher control loop frequency allows for higher-bandwidth lateral controllers exhibiting a faster response to changes in the desired trajectory. From a rolling start in an initial acceleration test at a constant control loop frequency, our longitudinal control and shifting strategy outperforms the IAC default automatic transmission."
+      "summary": "We present our approach to several control challenges in high-speed autonomous racing for the Indy Autonomous Challenge (IAC)."
     },
 
     {
@@ -181,14 +174,14 @@
       "publisher": "IEEE",
       "releaseDate": "2024",
       "url": "https://arxiv.org/abs/2402.02603",
-      "summary": "In the landscape of technological innovation, autonomous racing is a dynamic and challenging domain that not only pushes the limits of technology, but also plays a crucial role in advancing and fostering a greater acceptance of autonomous systems. This paper thoroughly explores challenges and advances in autonomous racing vehicle design and performance, focusing on Roborace and the Indy Autonomous Challenge (IAC). This review provides a detailed analysis of sensor setups, architectural nuances, and test metrics on these cutting-edge platforms. In Roborace, the evolution from Devbot 1.0 to Robocar and Devbot 2.0 is detailed, revealing insights into sensor configurations and performance outcomes. The examination extends to the IAC, which is dedicated to high-speed self-driving vehicles, emphasizing developmental trajectories and sensor adaptations. By reviewing these platforms, the analysis provides valuable insight into autonomous driving racing, contributing to a broader understanding of sensor architectures and the challenges faced. This review supports future advances in full-scale autonomous racing technology."
+      "summary": "In the landscape of technological innovation, autonomous racing is a dynamic and challenging domain that not only pushes the limits of technology."
     },
     {
       "name": "Cyber-Physical Review of a Battery Electric Vehicle Power Train: Vulnerabilities and Challenges",
       "publisher": "IEEE",
       "releaseDate": "2021",
       "url": "https://ieeexplore.ieee.org/document/9543036",
-      "summary": "This paper analyzes and reports the vulnerabilities and threats of an experimental electric vehicle. The proposed approach employs an electric vehicle (EV) and communication instrumentation for collecting CAN bus messages. Data was collected through the Electronic Control Unit (ECU) and the battery management system (BMS) interface. Our focus is on decoding the CAN messages and injecting false messages to exploit EV cyber-physical performance by observing the electrical and mechanical data. We found out that the electric car powertrain can be degraded severely without the fault systems' activation. Due to different communication between the engine and the ECU, the overall efficiency and electrical power performance were compromised."
+      "summary": "This paper analyzes and reports the vulnerabilities and threats of an experimental electric vehicle"
     }
   ],
   "skills": [
