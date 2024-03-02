@@ -24,5 +24,3 @@ Spend a whole week in LVMS testing and deploying software stack in real time hig
   <swiper-slide>{% include figure.liquid path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
-
-
