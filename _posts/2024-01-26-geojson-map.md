@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with geojson
-date: 2004-01-26 17:57:00
-description: this is what included geojson code could look like
+title: Putnam Park 
+date: 2023-08-15 17:57:00
+description: Road Course Track
 tags: formatting charts maps
 categories: sample-posts
 map: true
@@ -12,10 +12,10 @@ We tested the vehicle software and hardware reliability on track in Lucas Oil Ra
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/LOR_2023_11/FullLap_2023-11_540p.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/video/Putnam_Park/VID-20230812-WA0001.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/LOR_2023_11/VID-20231120-WA0015.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="assets/video/Putnam_Park/VID-20230812-WA0002.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 <div class="caption">
@@ -23,16 +23,16 @@ We tested the vehicle software and hardware reliability on track in Lucas Oil Ra
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/LOR_2023_11/LOR_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Putnam_Park_2023/IMG_20230808_223757.HEIC" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/LOR_2023_11/LOR_2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Putnam_Park_2023/IMG_20230810_084555.HEIC" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/LOR_2023_11/LOR_3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Putnam_Park_2023/IMG_20230810_084604.HEIC" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/LOR_2023_11/LOR_4.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Putnam_Park_2023/IMG_20230810_090738.HEIC" class="img-fluid rounded z-depth-1" %}
     </div>
 
 

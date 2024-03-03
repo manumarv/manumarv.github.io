@@ -1,7 +1,7 @@
 ---
 layout: post
-title: a post with bibliography
-date: 2003-07-12 09:56:00-0400
+title: CES 2023 Las Vegas Motor Speedway
+date: 2023-01-09 09:56:00-0400
 description: an example of a blog post with bibliography
 tags: formatting bib
 categories: sample-posts
@@ -14,10 +14,10 @@ We tested the vehicle software and hardware reliability on track in Lucas Oil Ra
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/LOR_2023_11/FullLap_2023-11_540p.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/video/CES_2023/DSC_0013.MOV" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/LOR_2023_11/VID-20231120-WA0015.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="assets/video/CES_2023/VID-20230116-WA0000.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 <div class="caption">
@@ -25,16 +25,16 @@ We tested the vehicle software and hardware reliability on track in Lucas Oil Ra
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/LOR_2023_11/LOR_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/CES_2023/_DSC2039.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/LOR_2023_11/LOR_2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/CES_2023/_DSC2062.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/LOR_2023_11/LOR_3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/CES_2023/DSC_0305.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/LOR_2023_11/LOR_4.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/CES_2023/IMG-20230108-WA0005.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 
 

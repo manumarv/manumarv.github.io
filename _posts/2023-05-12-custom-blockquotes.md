@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with custom blockquotes
-date: 2003-05-12 15:53:00-0400
-description: an example of a blog post with custom blockquotes
+title: Garage Time
+date: 2022-08-12 15:53:00-0400
+description: Preparation
 tags: formatting blockquotes
 categories: sample-posts
 giscus_comments: true
@@ -13,10 +13,10 @@ We tested the vehicle software and hardware reliability on track in Lucas Oil Ra
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/LOR_2023_11/FullLap_2023-11_540p.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/video/Garage_2022/VID-20220919-WA0000.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/LOR_2023_11/VID-20231120-WA0015.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="assets/video/Garage_2022/VID-20220919-WA0000.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 <div class="caption">
@@ -24,16 +24,16 @@ We tested the vehicle software and hardware reliability on track in Lucas Oil Ra
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/LOR_2023_11/LOR_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Garage_2022/IMG_8962.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/LOR_2023_11/LOR_2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Garage_2022/IMG_8993.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/LOR_2023_11/LOR_3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Garage_2022/IMG_9005.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/LOR_2023_11/LOR_4.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Garage_2022/IMG_9006.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 
 
