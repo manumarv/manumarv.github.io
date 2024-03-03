@@ -9,123 +9,32 @@ giscus_comments: true
 related_posts: true
 ---
 
-This post shows how to add custom styles for blockquotes. Based on [jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) implementation.
+We tested the vehicle software and hardware reliability on track in Lucas Oil Raceway located in Brownsburg, Indiana 
 
-We decided to support the same custom blockquotes as in [jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html), which are also found in a lot of other sites' styles. The styles definitions can be found on the [\_base.scss](https://github.com/alshedivat/al-folio/blob/master/_sass/_base.scss) file, more specifically:
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/LOR_2023_11/FullLap_2023-11_540p.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/LOR_2023_11/VID-20231120-WA0015.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+<div class="caption">
+    These videos show the vehicle running in an oval at max speed of 55mph, due to physical and safety the constraints the speed limit of this track for autonomous vehicle is 60mph. Some of the outcomes of this test were the verification and validity of the controls and localization algorithm we tested on simulation. Additionally we integrate all of our software stack in the car. We verified that the safety triggers were pushed. 
 
-```scss
-/* Tips, warnings, and dangers */
-.post .post-content blockquote {
-  &.block-tip {
-    border-color: var(--global-tip-block);
-    background-color: var(--global-tip-block-bg);
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/LOR_2023_11/LOR_1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/LOR_2023_11/LOR_2.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/LOR_2023_11/LOR_3.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/LOR_2023_11/LOR_4.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
 
-    p {
-      color: var(--global-tip-block-text);
-    }
 
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: var(--global-tip-block-title);
-    }
-  }
-
-  &.block-warning {
-    border-color: var(--global-warning-block);
-    background-color: var(--global-warning-block-bg);
-
-    p {
-      color: var(--global-warning-block-text);
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: var(--global-warning-block-title);
-    }
-  }
-
-  &.block-danger {
-    border-color: var(--global-danger-block);
-    background-color: var(--global-danger-block-bg);
-
-    p {
-      color: var(--global-danger-block-text);
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: var(--global-danger-block-title);
-    }
-  }
-}
-```
-
-A regular blockquote can be used as following:
-
-```markdown
-> This is a regular blockquote
-> and it can be used as usual
-```
-
-> This is a regular blockquote
-> and it can be used as usual
-
-These custom styles can be used by adding the specific class to the blockquote, as follows:
-
-<!-- prettier-ignore-start -->
-
-```markdown
-> ##### TIP
->
-> A tip can be used when you want to give advice
-> related to a certain content.
-{: .block-tip }
-```
-
-> ##### TIP
->
-> A tip can be used when you want to give advice
-> related to a certain content.
-{: .block-tip }
-
-```markdown
-> ##### WARNING
->
-> This is a warning, and thus should
-> be used when you want to warn the user
-{: .block-warning }
-```
-
-> ##### WARNING
->
-> This is a warning, and thus should
-> be used when you want to warn the user
-{: .block-warning }
-
-```markdown
-> ##### DANGER
->
-> This is a danger zone, and thus should
-> be used carefully
-{: .block-danger }
-```
-
-> ##### DANGER
->
-> This is a danger zone, and thus should
-> be used carefully
-{: .block-danger }
-
-<!-- prettier-ignore-end -->
+</div>
